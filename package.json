@@ -10,9 +10,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "@particle-network/chains": "^1.8.3",
+    "@particle-network/rn-auth-core": "^2.0.6",
+    "@particle-network/rn-connect": "^2.0.6",
+    "@react-native/new-app-screen": "0.81.1",
     "react": "19.1.0",
     "react-native": "0.81.1",
-    "@react-native/new-app-screen": "0.81.1",
     "react-native-safe-area-context": "^5.5.2"
   },
   "devDependencies": {
